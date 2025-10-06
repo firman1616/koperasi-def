@@ -44,7 +44,8 @@
                             <div class="col-lg-12">
                                 <div class="p-5">
                                     <div class="text-center" style="margin-bottom: 7px; margin-top: 0px">
-                                        <img src="<?= base_url() ?>assets/image/login.png" alt="" width="307" height="112" srcset="">
+                                    <h1>Logo</h1>    
+                                    <!-- <img src="<?= base_url() ?>assets/image/login.png" alt="" width="307" height="112" srcset=""> -->
                                     </div>
                                     <form class="user" method="POST" action="<?= base_url('Login/login_form') ?>">
                                         <div class="form-group">

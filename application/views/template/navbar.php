@@ -9,9 +9,11 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?= site_url('Dashboard') ?>">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <img src="<?= base_url('assets/image/ksua.png') ?>" alt="Logo" style="width: 40px; height: 40px;">
+                <h6>Logo</h6>
+                <!-- 
+                <img src="<?= base_url('assets/image/ksua.png') ?>" alt="Logo" style="width: 40px; height: 40px;"> -->
                 </div>
-                <div class="sidebar-brand-text mx-3">SYATHIBI </div>
+                <div class="sidebar-brand-text mx-3">Brand </div>
             </a>
 
             <!-- Divider -->
